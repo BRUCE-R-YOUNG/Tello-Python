@@ -1,4 +1,4 @@
-command
+pytoncommand
 takeoff
 delay 5
 land
